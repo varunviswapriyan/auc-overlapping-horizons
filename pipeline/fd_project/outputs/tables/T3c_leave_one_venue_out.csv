@@ -1,0 +1,5 @@
+excluded_venue,dAUC_vs_BASE,ci_lo,ci_hi,p_one_sided,n
+binance,-0.0002,-0.0049,0.0047,0.51,41860
+deribit,-0.0136,-0.0404,0.0152,0.81,8396
+kucoinfutures,-0.0003,-0.0052,0.0053,0.495,41860
+phemex,0.0035,-0.0026,0.0097,0.1,41860

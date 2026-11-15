@@ -1,0 +1,6 @@
+model,mse,qlike,n,DM_vs_HAR_mse,DMp_vs_HAR_mse,MCS_p_mse,in_MCS90_mse,DM_vs_HAR_qlike,DMp_vs_HAR_qlike,MCS_p_qlike,in_MCS90_qlike
+GARCH,0.2329,0.4214,38455,12.2387,0.0,0.0,False,-2.4399,0.0147,0.462,True
+HAR,0.1636,0.4605,38455,0.0,1.0,0.0,False,0.0,1.0,0.0,False
+HAR_disp,0.1631,0.4626,38455,-0.5378,0.5907,0.0,False,0.7456,0.4559,0.0,False
+lgbmreg_BASE,0.1416,0.4128,41860,-8.9335,0.0,0.063,False,-4.2144,0.0,0.462,True
+lgbmreg_FULL,0.1411,0.4123,41860,-9.2252,0.0,0.063,True,-4.4315,0.0,0.462,True

@@ -1,0 +1,4 @@
+strategy,ann_ret,ann_vol,sharpe,max_dd,worst_period,cvar5
+hedge_BASE,0.195,0.6332,0.341,-0.7044,-0.1655,-0.0432
+hedge_FULL,0.1676,0.6292,0.3142,-0.7171,-0.1604,-0.0432
+long_always,0.4469,0.7202,0.6476,-0.7427,-0.1708,-0.0483
