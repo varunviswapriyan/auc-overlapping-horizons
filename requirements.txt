@@ -1,0 +1,16 @@
+# Requires Python >= 3.12 (numpy 2.5.3 does not support older Python)
+# Versions used to produce the shipped simulation and application results
+numpy==2.5.3
+scipy==1.18.1
+pandas==3.0.5
+scikit-learn==1.9.1
+matplotlib==3.11.2
+# Needed to read parquet files (application.py, pipeline)
+pyarrow
+# Needed only for the original pipeline (versions were not recorded when it was first run)
+statsmodels
+lightgbm
+shap
+arch
+ccxt
+requests

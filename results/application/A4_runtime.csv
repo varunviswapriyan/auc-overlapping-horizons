@@ -1,0 +1,5 @@
+task,seconds,n,K,machine
+"analytic (DeLong, cluster, HAC)",0.02,41860,4198,"Linux x86_64, numpy 2.5.3"
+"weighted cluster bootstrap, B=1000",2.458,41860,4198,"Linux x86_64, numpy 2.5.3"
+"weighted moving-block bootstrap, B=1000",2.544,41860,4198,"Linux x86_64, numpy 2.5.3"
+"loop cluster bootstrap (pipeline code), B=1000",20.646,41860,4198,"Linux x86_64, numpy 2.5.3"
